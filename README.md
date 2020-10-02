@@ -10,7 +10,14 @@
 
 ![animation of blocktober](./docs/blocktober.gif)
 
-Tired of the hacktober spamming? `blocktober` brings your repo back rest.
+Tired of the hacktober spamming? `blocktober` brings your repo back to rest.
+
+
+## Setup
+
+Clone and setup as usual.
+
+If not already configured, create a personal usage token as described in [Github docs](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token). Set that to the `GITHUB_TOKEN` environment variable.
 
 ## Usage
 
